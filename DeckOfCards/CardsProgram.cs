@@ -10,9 +10,8 @@ using DeckOfCards.BusinessLogic;
 
 namespace DeckOfCards
 {
-    /// <summary>
-    /// Hi! This zip file should be self-contained. The only external packages it uses are NUnit and NUnit Test Adapter and they should be included. 
-    /// That's just for the unit tests.
+    ///<summary>
+    /// Hi! This Git project should run after you restore the NUnit packages in Nuget, so please do that first.
     /// If you have trouble running the tests, go to Tests - Test Settings - Default Processor Architecture and select the right one for your machine. 
     /// That snagged me a few times because it defaults to x86.
     /// This could have been easily written quicker and dirtier but I tried to write it mostly in a way that would reflect how I'd write code that's part
